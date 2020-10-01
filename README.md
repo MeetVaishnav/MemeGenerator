@@ -1,4 +1,4 @@
-# MemeGenerator
+# Meme Generator
 
 Share jokes with your team!
 
